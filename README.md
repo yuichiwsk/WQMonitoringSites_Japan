@@ -1,5 +1,6 @@
 # WQMonitoringSites_Japan
 公共用水域の水質測定地点の物理化学的特徴に基づく分類
+If you need any relevant information in English, please let me know at yuichiwsk at gmail.com.
 
 ## 説明
 このページでは，水環境学会誌に投稿予定の論文「日本全国の河川における水質測定地点（環境基準点）の物理化学的特徴に基づく分類」のサポートページです。
