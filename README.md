@@ -1,5 +1,5 @@
 # WQMonitoringSites_Japan
-公共用水域の水質測定地点の物理化学的特徴に基づく分類
+公共用水域の水質測定地点の物理化学的特徴に基づく分類（絶賛作成中）
 
 If you need any relevant information in English, please email me at yuichiwsk at gmail.com.
 
