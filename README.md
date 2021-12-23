@@ -12,8 +12,11 @@ If you need any relevant information in English, please email me at yuichiwsk at
 今のところ，環境基準点のみを対象に整備しています。
 
 ## データ
-### 水質測定地点情報及び物理化学的特徴をまとめたエクセルファイル
-WQMsites_SupplementaryTable_ver2021-12-17.xlsx
-
+## 水質測定地点情報及び物理化学的特徴をまとめたエクセルファイル
 列名等の説明は，シート「説明」を参照下さい。
-水環境総合情報サイトの2011～2015年度のデータから抽出した2925地点を搭載。
+現状では，水環境総合情報サイトの2011～2015年度のデータから抽出した2925地点を搭載。
+### 更新履歴
+### WQMsites_SupplementaryTable_ver2021-12-24.xlsx
+列名（ChitenFlag）の誤記を修正。0がいずれのグループにも分類されなかったことを意味することを追記。
+### WQMsites_SupplementaryTable_ver2021-12-17.xlsx
+第1版
