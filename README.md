@@ -16,6 +16,8 @@ If you need any relevant information in English, please email me at yuichiwsk at
 列名等の説明は，シート「説明」を参照下さい。
 現状では，水環境総合情報サイトの2011～2015年度のデータから抽出した2925地点を搭載。
 ### 更新履歴
+### WQMsites_SupplementaryTable_ver2022-04-10.xlsx
+田畑とまとめていた水田と畑地などについて、個別の項目の結果を追加し、更新。
 ### WQMsites_SupplementaryTable_ver2021-12-24.xlsx
 列名（ChitenFlag）の誤記を修正。0がいずれのグループにも分類されなかったことを意味することを追記。
 ### WQMsites_SupplementaryTable_ver2021-12-17.xlsx
