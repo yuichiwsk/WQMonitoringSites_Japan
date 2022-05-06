@@ -1,5 +1,5 @@
 # WQMonitoringSites_Japan
-日本全国の河川における水質測定地点の物理化学的特徴に基づく分類
+日本全国の河川における水質測定地点の物理化学的特徴の整備
 
 If you need any relevant information in English, please email me at yuichiwsk at gmail.com.
 
