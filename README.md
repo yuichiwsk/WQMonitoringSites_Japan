@@ -1,4 +1,4 @@
-# WQMonitoringSites_Japan
+# Physicochemical characteristics of water quality monitoring sites in Japan
 日本全国の河川における水質測定地点の物理化学的特徴の整備
 
 If you need any relevant information in English, please email me at yuichiwsk at gmail.com.
